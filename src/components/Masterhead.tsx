@@ -1,4 +1,4 @@
-import { Box, colors, Typography } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 
 export default function Masterhead() {
   return (
