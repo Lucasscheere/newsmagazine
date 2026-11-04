@@ -52,7 +52,7 @@ export default function Footer() {
           <Link
             href="#"
             variant="overline"
-            underline="none"
+            underline="hover"
             color="text.muted"
             sx={{
               transition: "color 150ms",
